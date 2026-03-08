@@ -74,16 +74,10 @@
 
 # 📈 Key Insights
 
-### Apple generated the highest total sales among all brands.
-
-### Sales volume shows fluctuations across different months.
-
-### UPI and Debit Card are the most used payment methods.
-
-### Certain cities contribute significantly higher mobile sales compared to others.
-
-# 📷 Dashboard Preview
-<img src="dashboard.png" width="1000">
+- Apple generated the highest total sales among all brands.
+- Sales volume shows fluctuations across different months.
+- UPI and Debit Card are the most used payment methods.
+- Certain cities contribute significantly higher mobile sales compared to others.
 
 #  Project Objective
 - The main goal of this dashboard is to:
